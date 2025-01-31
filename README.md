@@ -1,3 +1,5 @@
-# Practica1-fdp
-Primera practica de fdp 2025
+# Practica1- Fundamentos De Programacion
+31/01/2025
+Primera practica 
+
 
