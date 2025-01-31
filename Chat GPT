@@ -1,0 +1,57 @@
+Chat GPT:
+Para calcular la raíz cuadrada de un número manualmente (sin calculadora ni programación), puedes usar **el método de descomposición en factores primos** o **el método clásico de la raíz cuadrada por lápiz y papel**.  
+
+---
+
+## 📌 **1. Método de Descomposición en Factores Primos (Para Números Exactos)**
+Este método es útil si el número tiene una raíz cuadrada exacta.
+
+🔹 **Ejemplo: Calcular \( \sqrt{144} \)**  
+1. Descomponemos 144 en sus factores primos:  
+   \[
+   144 = 2^4 \times 3^2
+   \]
+2. Aplicamos la raíz cuadrada a cada factor:
+   \[
+   \sqrt{144} = \sqrt{2^4 \times 3^2}
+   \]
+3. Extraemos los exponentes dividiéndolos entre 2:
+   \[
+   \sqrt{144} = 2^{4/2} \times 3^{2/2} = 2^2 \times 3^1 = 4 \times 3 = 12
+   \]
+
+✅ **Resultado:** \( \sqrt{144} = 12 \)
+
+---
+
+## 📌 **2. Método Clásico de la Raíz Cuadrada (Lápiz y Papel)**
+Este método es similar a la división larga y permite calcular raíces cuadradas manualmente.
+
+🔹 **Ejemplo: Calcular \( \sqrt{1521} \)**  
+### **Pasos:**
+1. **Agrupa los dígitos en pares desde la derecha**:  
+   \[
+   15 \quad 21
+   \]
+2. **Busca el número más grande cuyo cuadrado sea menor o igual a 15**:  
+   - \( 3^2 = 9 \) (se acerca, pero \( 4^2 = 16 \) es demasiado grande).  
+   - Tomamos \( 3 \), lo colocamos en el resultado y restamos:  
+     \[
+     15 - 9 = 6
+     \]
+3. **Baja el siguiente par de dígitos (21), formando 621.**  
+4. **Doblamos el número encontrado (\( 3 \)) y lo usamos como divisor:**  
+   - \( 3 \times 2 = 6 \), escribimos 6 seguido de un _ para hallar el siguiente dígito.  
+   - Probamos \( 67 \times 7 = 469 \), pero es pequeño.  
+   - Probamos \( 68 \times 8 = 544 \), todavía pequeño.  
+   - Probamos \( 69 \times 9 = 621 \), exacto.  
+
+✅ **Resultado:** \( \sqrt{1521} = 39 \)
+
+---
+
+## 📌 **Conclusión**
+- **Si el número tiene raíz exacta**, usa **factores primos**.
+- **Si la raíz no es exacta**, usa **el método de lápiz y papel** para encontrar el valor aproximado.
+
+📌 **¿Quieres que te ayude con otro ejemplo más complejo?** 😃
